@@ -10,4 +10,6 @@ https://github.com/Metafiz/nlp-course-20/blob/master/text-clustering.ipynbъ
 
 https://github.com/IceDarold/vseros-toolkit/tree/main/recsys
 
+https://github.com/phantom2059/baseline_repo/tree/main/examples
+
 pip install geo-features-generator
